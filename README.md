@@ -1,3 +1,4 @@
+![logo](https://github.com/yudisdevrian/yudis-devrian/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Yudis Devrian</h1>
 <h3 align="center">A passionate software engineer from Indonesia</h3>
 
